@@ -27,7 +27,7 @@ def test_symlinktest_symlinks():
 def test_symlinktest_symlinks():
     r.match("^test concurrent symlinks: ok$")
 
-@test(19, "usertests")
+@test(20, "usertests")
 def test_usertests():
     r.run_qemu(shell_script([
         'usertests'
