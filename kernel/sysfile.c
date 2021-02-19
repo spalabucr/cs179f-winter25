@@ -284,6 +284,13 @@ create(char *path, short type, short major, short minor)
 }
 
 uint64
+sys_symlink(void)
+{
+  //your implementation goes here
+  return 0;
+}
+
+uint64
 sys_open(void)
 {
   char path[MAXPATH];
