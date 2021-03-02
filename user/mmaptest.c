@@ -200,7 +200,7 @@ mmap_test(void)
   int fd2;
   if((fd2 = open("mmap2", O_RDWR|O_CREATE)) < 0)
     err("open mmap2");
-  if(write(fd1, "67890", 5) != 5)
+  if(write(fd2, "67890", 5) != 5)
     err("write mmap2");
   char *p2 = mmap(0, PGSIZE, PROT_READ, MAP_PRIVATE, fd2, 0);
   if(p2 == MAP_FAILED)
