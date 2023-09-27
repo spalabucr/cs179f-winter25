@@ -60,7 +60,7 @@ sudo make install
     ```QEMU emulator version 5.1.0```
     - ```$ riscv64-linux-gnu-gcc --version```  
 	```riscv64-linux-gnu-gcc (Debian 10.3.0-8) 10.3.0```
-	- In the class repo, ```git checkout util```, then ```make qemu```, you should get a shell and an output to ```ls``` like this:
+	- Checkout to the `util` branch (```git checkout util```), then run ```make qemu```, you should get a shell and an output to ```ls``` like this:
 ```
 $ ls
 .              1 1 1024
