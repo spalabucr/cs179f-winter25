@@ -40,7 +40,15 @@ Gordon Watkins Hall, Room 1101
     - _class git repository_, [https://github.com/emidec/cs179f-fall23/](https://github.com/emidec/cs179f-fall23/)
 - Please see [https://pdos.csail.mit.edu/6.828/2023/tools.html](https://pdos.csail.mit.edu/6.828/2023/tools.html) for instructions re. how to set up xv6 on your local machine, or see below
 - _Note_: I've encountered problems with running qemu on Macs running _Apple M1/M2 silicon_. I'm still working on possible solutions, but my advice for the moment is to use a virtual machine running Ubuntu
-- _Note_: I also encountered problems with latest versions of qemu. My advice is to get (and compile from source) qemu 5.1 from [https://download.qemu.org](https://download.qemu.org) rather than the latest version installed via packages
+- _Note_: I also encountered problems with latest versions of qemu. My advice is to get (and compile from source) qemu 4.1.1 from [https://download.qemu.org](https://download.qemu.org) rather than the latest version installed via packages:
+```
+wget https://download.qemu.org/qemu-4.1.1.tar.xz
+tar xf qemu-4.1.1.tar.xz
+cd qemu-4.1.1
+./configure --disable-kvm --disable-werror --prefix=/usr/local --target-list="riscv64-softmmu"
+make
+sudo make install
+```
 
 ## Install on Linux
 - Debian/Ubuntu:
