@@ -28,7 +28,7 @@ Gordon Watkins Hall, Room 1101
 
 ## XV6
 - We will use the [XV6](https://pdos.csail.mit.edu/6.828/2012/xv6.html) operating system as a base for our projects
-- Please familiarize yourself with XV6 using the resources below to get a grasp on how it is organized and implemented:
+- Please familiarize yourself with XV6 to get a grasp on how it is organized and implemented, e.g., using:
     -  [Online version](http://www.lemis.com/grog/Documentation/Lions/) of the Lions commentary
 	-  [Source Code](http://v6.cuzuco.com/), also [available](http://minnie.tuhs.org/cgi-bin/utree.pl?file=V6) through the Unix Heritage Society
     -  If you are curious, you can also see the original code in the PDP11/40 Processor Handbook, Digital Equipment Corporation, 1972 [[PDF](http://pdos.csail.mit.edu/6.828/2005/readings/pdp11-40.pdf)] [[Web](http://pdos.csail.mit.edu/6.828/2005/pdp11/)]
