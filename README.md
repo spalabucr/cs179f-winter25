@@ -105,7 +105,7 @@ Each lab will be graded based on:
 - Source code and comments
 - Lab report
 - Tests created and passed
-- In-person answers to questions regarding the work
+- In-person answers to questions regarding the work ("demo") with TA
 
 ## Late Submissions
 - Late submissions within 48 hours will be graded with 20% penalty
