@@ -5,8 +5,8 @@ For this lab we have replaced the page allocator in the xv6 kernel with a buddy 
 
 To start the lab, switch to the alloc branch:
 
-            $ git fetch
-			$ git checkout alloc
+      $ git fetch
+      $ git checkout alloc
 
 Task No.1: Heap Allocator
 -------------------------
