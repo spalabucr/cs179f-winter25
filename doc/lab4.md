@@ -81,15 +81,15 @@ In this exercise you will add symbolic links to xv6. Symbolic links (or soft lin
 
 You will implement the `symlink(char *target, char *path)` system call, which creates a new symbolic link at path that refers to file named by target. For further information, see the man page symlink. To test, add symlinktest to the Makefile and run it. Your solution is complete when the tests produce the following output (including usertests succeeding).
 
-$ symlinktest
-Start: test symlinks
-test symlinks: ok
-Start: test concurrent symlinks
-test concurrent symlinks: ok
-$ usertests
-...
-ALL TESTS PASSED
-$
+    $ symlinktest
+    Start: test symlinks
+    test symlinks: ok
+    Start: test concurrent symlinks
+    test concurrent symlinks: ok
+    $ usertests
+    ...
+    ALL TESTS PASSED
+    $
 
 Hints:
 
