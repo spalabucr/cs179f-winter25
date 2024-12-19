@@ -1,17 +1,16 @@
-# CS179F Fall 2023
+# CS179F Winter 2025
 
 ## Catalog Description
 CS179F delves into the design and implementation of operating systems by conducting a quarter-long project.
 
 ## Team
-- **Instructor: Emiliano De Cristofaro**
+- **Instructor: Prof. Emiliano De Cristofaro**
     - Email: emilianodc AT cs DOT ucr DOT edu
-    - Lectures: Tuesdays 3:30 - 4:20 PM
-Gordon Watkins Hall, Room 1101
+    - Lectures: Fridays, 3:00 - 3:50 PM, MSE 103
     - Office hours: TBD
-- **Teaching Assistant: Gao Lian**
-    - Email: lian DOT gao AT email DOT ucr DOT edu
-    - Office hourse: TBD
+- **Teaching Assistant: Xingyu Li **
+    - Email: xli399 AT email DOT ucr DOT edu
+    - Lab sessions: Wednesdays, 6:00 - 8:50 PM, Sproul Hall 2340
 
 ## Textbooks
 - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/), Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
@@ -19,8 +18,8 @@ Gordon Watkins Hall, Room 1101
 - Lions' Commentary on UNIX' 6th Edition, John Lions, Peer to Peer Communications. ISBN: 1-57398-013-7. 1st edition (June 14, 2000)
 
 ## Communication
-- [Piazza](https://piazza.com/ucr/fall2023/cs179f/home) for announcement, discussions, and help
-- [Canvas](https://elearn.ucr.edu/courses/110956) for assignments and grading
+- [Piazza](https://piazza.com/ucr/winter2025/cs179f) for resources, announcements, discussions, and help
+- [Canvas](https://elearn.ucr.edu/courses/167741) to submit assignments and see grades
 
 ## Acknowledgments
 - MIT 6.1810 Operating System Engineering [class](https://pdos.csail.mit.edu/6.828/2023/index.html) series for setting up the projects and maintaining xv6-riscv
@@ -106,7 +105,7 @@ Each lab will be graded based on:
 - Source code and comments
 - Lab report
 - Tests created and passed
-- In-person answers to questions regarding the work ("demo") with TA
+- In-person answers to questions regarding the work ("demo")
 
 ## Late Submissions
 - Late submissions within 48 hours will be graded with 20% penalty
