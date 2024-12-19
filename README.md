@@ -8,7 +8,7 @@ CS179F delves into the design and implementation of operating systems by conduct
     - Email: emilianodc AT cs DOT ucr DOT edu
     - Lectures: Fridays, 3:00 - 3:50 PM, MSE 103
     - Office hours: TBD
-- **Teaching Assistant: Xingyu Li **
+- **Teaching Assistant: Xingyu Li**
     - Email: xli399 AT email DOT ucr DOT edu
     - Lab sessions: Wednesdays, 6:00 - 8:50 PM, Sproul Hall 2340
 
