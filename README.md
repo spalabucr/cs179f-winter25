@@ -92,6 +92,9 @@ crashtest      2 25 22176
 console        3 26 0
 ```
 
+## Common issues
+- You might need to export $PATH. Please check the slides!
+
 ## Projects
 We will have five projects, each counting 20% of the final grade, aimed to making several improvements on xv6:
 1. [Unix Uilities: sleep, find, xargs](doc/lab1.md)
